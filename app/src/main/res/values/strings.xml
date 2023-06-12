@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TodoApp_160420015</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="labelEmpty">Your todo list is empty. Start creating a new todo now.</string>
+</resources>
